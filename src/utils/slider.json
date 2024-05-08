@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Wall House Clásica",
+    "price": "47,043",
+    "detail": "Violeta Parra Street, Villa General Belgrano, Córdoba, Argentina",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Tall House Evolution",
+    "price": "50,353",
+    "detail": "Las Margaritas, Villa del Dique, Córdoba, Argentina",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Wall House Exclusive",
+    "price": "55,853",
+    "detail": "Hellen Keller Street, Villa General Belgrano, Córdoba, Argentina",
+    "image": "./r3.png"
+  },
+  {
+    "name": "H7 Plus House",
+    "price": "32,841",
+    "detail": "Las Lilas Street, Villa Yacanto, Córdoba, Argentina",
+    "image": "./r4.png"
+  },
+  {
+    "name": "H7 Plus House Evolution",
+    "price": "39,905",
+    "detail": "Guasmara Este Street, Villa de las Rosas, Córdoba, Argentina",
+    "image": "./r5.png"
+  },
+  {
+    "name": "House Evolution Exclusive",
+    "price": "66,159",
+    "detail": "Los Tordos Street, San Martin de los Andres, Neuquén, Argentina",
+    "image": "./r6.png"
+  },
+  {
+    "name": "T-House Evolution",
+    "price": "37,243",
+    "detail": "Comahue Street, Villa La Angostura, Neuquén, Argentina",
+    "image": "./r7.png"
+  }
+]
